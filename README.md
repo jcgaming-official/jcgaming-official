@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Carl Quieta</h1>
-<h3 align="center">A Android Reverse Engineer</h3>
+<h3 align="center">An Android Reverse Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcgaming-official&label=Profile%20views&color=0e75b6&style=flat" alt="jcgaming-official" /> </p>
 
