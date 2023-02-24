@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Java,JavaScript, Python and more on Udemy**
 
+- 🤝 I’m looking for help with **Learning OOP Languages and Android Reverse Engineering**
+
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **dev.jcquieta@gmail.com**
 
-- ⚡ Fun fact **I'm destroying some Applications**
+- ⚡ Fun fact **I'm destroying some Applications and I Love Hacking Stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
