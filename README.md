@@ -17,6 +17,10 @@
 - ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<h3 align="center">Hacktoberfest 2023</h3>
+
+[![@jcgamingofficial's Holopin board](https://holopin.io/api/user/board?user=jcgamingofficial)](https://holopin.io/@jcgamingofficial)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jcquieta_158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jcquieta_158" height="30" width="40" /></a>
